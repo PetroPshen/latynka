@@ -4,7 +4,7 @@ baseURL = "http://latynka.tak.today"
 languageCode = "uk-UA"
 DefaultContentLanguage = "uk"
 publishDir = "docs"
-theme = "latynkame"
+theme = "latynkamed"
 copyright = "2014 – LATYNKA.TAK"
 favicon = "/img/favicon.ico"
 

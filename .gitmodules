@@ -1,0 +1,3 @@
+[submodule "themes/latynkamed"]
+	path = themes/latynkamed
+	url = https://github.com/lgaida/mediumish-gohugo-theme.git
