@@ -4,7 +4,7 @@ author: Valeriy Chevceuc
 type: biblioteka
 date: 2019-11-08T08:16:26+00:00
 url: /biblioteka/ptachy-z-nevydymoho-ostrova/
-featured_image: static/latynka/img/biblioteka/szevczuk-ptachy-07.jpg
+featured_image: /latynka/img/biblioteka/szevczuk-ptachy-07.jpg
 
 ---
 <a href="https://drive.google.com/file/d/1vJH1xGWkWC61gYwgWMO8qwGhwHzKpmOs/view" target="_blank"><img src="/latynka/img/biblioteka/pdf-icon.png" alt="pdf" /></a>
