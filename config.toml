@@ -1,6 +1,6 @@
 title = "LATYNKA.TAK"
 description ="Осідок української латинки у всемережжі"
-baseURL = "https://petropshen.github.io/latynka"
+baseURL = "https://petropshen.github.io/latynka/"
 languageCode = "uk-UA"
 DefaultContentLanguage = "uk"
 publishDir = "docs"
