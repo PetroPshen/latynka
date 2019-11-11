@@ -3,7 +3,7 @@ title: Проєкт Івана Лучука
 type: projekty
 date: 2015-06-28T07:53:17+00:00
 url: works/luchukivka/
-featured_image: /img/projecty/Latynka-Luchukivka.png
+featured_image: /latynka/img/projecty/Latynka-Luchukivka.png
 
 ---
 2000 року вийшов <a href="https://drive.google.com/file/d/1ucN7HVuVUFUJHZ8H1iymu8hSb35zzYgm/view" target="_blank">&#8220;Korotkyj Pravopys&#8221;</a> Івана Лучука, в якому він детально описав український латинський правопис.

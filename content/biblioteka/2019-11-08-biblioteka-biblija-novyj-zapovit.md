@@ -3,10 +3,10 @@ title: Biblija. Novyj zapovit
 type: biblioteka
 date: 2019-11-08T08:00:52+00:00
 url: /biblioteka/biblija-novyj-zapovit/
-featured_image: /img/biblioteka/bible-new-04.jpg
+featured_image: /latynka/img/biblioteka/bible-new-04.jpg
 
 ---
-<a href="https://drive.google.com/file/d/18s1OmuErjVJ5C3L1EjPvyBw2JSJbzfsH/view?usp=sharing" target="_blank"><img src="/img/biblioteka/pdf-icon.png" alt="pdf"/></a>
+<a href="https://drive.google.com/file/d/18s1OmuErjVJ5C3L1EjPvyBw2JSJbzfsH/view?usp=sharing" target="_blank"><img src="/latynka/img/biblioteka/pdf-icon.png" alt="pdf"/></a>
 
 Bíblija mistyť knyhy religijnoho, istoryčno-povčaľnoho zmistu. Je bohonatchnennymy pysanniamy, na jakych gruntujeťsia judejśke ta chrystyjanśke virovčennia.
 

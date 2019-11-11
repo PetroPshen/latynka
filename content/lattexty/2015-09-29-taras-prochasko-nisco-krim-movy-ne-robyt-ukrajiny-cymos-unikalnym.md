@@ -4,7 +4,7 @@ author: Taras Prochaśko
 type: lattexty
 date: 2015-09-29T04:17:37+00:00
 url: /taras-prochasko-nisco-krim-movy-ne-robyt-ukrajiny-cymos-unikalnym/
-featured_image: /img/lattexty/prohasko_taras-598x399.jpg
+featured_image: /latynka/img/lattexty/prohasko_taras-598x399.jpg
 summary: 'Pryjniato vvažaty, ščo v Ukrajini tiažko žyty, tomu my z rozuminniam stavymosia do tych svojich spivhromadian, jaki z Ukrajiny vyjiždžajuť zarady kraščych umov, zarady liudśkoji samorealizaciji, zarady unyknennia nebezpek i trudnoščiv.'
 ---
 Možlyvo, vse ce mene perejmaje peredovsim tomu, ščo ja je liudynoju, jaka žyve u movi, dlia jakoji mova je ne tiľky miscem diji, ale j najreaľnišoju i najvažlyvišoju formoju svitu. Ale, naviť jakščo tak, to čym taki liudy, jak ja, hirši vid autystiv, viľnych pidpryjemciv, homoseksualistiv, jevrejiv i pereselenciv? Cilkom pryrodno, ščo u modernomu suspiľstvi, jake tak napolehlyvo deklaruje prava liudyny, ci liudy takož chočuť počuvaty sebe biľš-menš komfortno.

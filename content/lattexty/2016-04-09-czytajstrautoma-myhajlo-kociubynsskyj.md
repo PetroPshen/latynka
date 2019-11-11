@@ -4,7 +4,7 @@ author: Mychajlo Kociubynśkyj
 type: lattexty
 date: 2016-04-09T02:54:40+00:00
 url: /czytajstrautoma-myhajlo-kociubynsskyj/
-featured_image: /img/lattexty/vtoma_okean-598x374.jpg
+featured_image: /latynka/img/lattexty/vtoma_okean-598x374.jpg
 summary: 'Duša moja vtomlena — i naviť toj žaľ, ščo počuvaju, nahaduje lyš usmich, zastyhlyj na oblyčči mercia… Ja maju žaľ do neba, bo chmary, ščo prochodiať po niomu, ne lyšajuť tam žodnoho slidu: vono znov staje jasnym j blakytnym.'
 
 ---

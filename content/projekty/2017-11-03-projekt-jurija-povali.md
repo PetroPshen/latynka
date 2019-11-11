@@ -3,7 +3,7 @@ title: Проєкт Юрія Повали
 type: projekty
 date: 2017-11-03T08:00:30+00:00
 url: works/projekt-jurija-povali/
-featured_image: /img/projecty/lat-povala-03.png
+featured_image: /latynka/img/projecty/lat-povala-03.png
 
 ---
 #### Проєкт базується на кількох принципах:

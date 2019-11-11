@@ -4,7 +4,7 @@ author: Oksana Pelenśka
 type: lattexty
 date: 2015-06-22T12:34:53+00:00
 url: /jak-cexy-borolysa-iz-movnoju-okupacijeju-i-peremohly/
-featured_image: /img/lattexty/cestina-598x399.jpg
+featured_image: /latynka/img/lattexty/cestina-598x399.jpg
 
 ---
 Jakščo možna bulo b ocinyty śohodni stavlenńa čeśkoho narodu do ridnoji movy, korystujučyś sportyvnoju terminolohijeju, to «zoloto» vyhrajuť oboje &#8211; i narod, i mova. Inšymy slovamy, stan čeśkoji movy u Čexiji možna vyznačyty jak uspišnyj.<!--more-->

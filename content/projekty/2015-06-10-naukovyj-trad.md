@@ -3,7 +3,7 @@ title: Науковий (традиційний)
 type: projekty
 date: 2015-06-10T07:46:41+00:00
 url: works/naukovyj-trad/
-featured_image: /img/projecty/Latynka-Naukovyj1.png
+featured_image: /latynka/img/projecty/Latynka-Naukovyj1.png
 
 ---
 Наукова (чи лінгвістична) транслітерація застосовується з 1898 року **для відтворення словянських мов**, зокрема у міжнародних наукових публікаціях та іноземних бібліотеках. Поширена назва — Прусські інструкції _(Preußische Instruktionen)_.

@@ -4,10 +4,10 @@ author: Ivan Neceuy-Levicscuiy
 type: biblioteka
 date: 2019-11-08T08:09:51+00:00
 url: /biblioteka/kajdaseva-simja/
-featured_image: /img/biblioteka/kajdaseva-simja07.jpg
+featured_image: /latynka/img/biblioteka/kajdaseva-simja07.jpg
 
 ---
-<a href="https://drive.google.com/file/d/1HzK1C8_7xDB8-5xKla9jXTKW-zEOmlzs/view" target="_blank"><img src="/img/biblioteka/pdf-icon.png" alt="pdf" /></a>
+<a href="https://drive.google.com/file/d/1HzK1C8_7xDB8-5xKla9jXTKW-zEOmlzs/view" target="_blank"><img src="/latynka/img/biblioteka/pdf-icon.png" alt="pdf" /></a>
 
 «Kajdašéva simjá» — realistyčna socìaľno-pobutova povisť ukrajinśkoho pyśmennyka Ivana Semenovyča Nečuja-Levyćkoho, napysana 1878 roku. U tvori na materìali povsiakdennoho žyttia selianstva rozkryvajuťsia dejaki rysy vdači ukrajinśkoho narodu, joho indyvidualizm, prahnennia žyty okremym, samostijnym žyttiam. Tvir neodnorazovo perevydavavsia i perekladavsia inšymy movamy.
 

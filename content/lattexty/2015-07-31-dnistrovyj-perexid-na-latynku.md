@@ -4,7 +4,7 @@ author: Iryna Skakun
 type: post
 date: 2015-07-31T10:09:58+00:00
 url: /dnistrovyj-perexid-na-latynku/
-featured_image: /img/lattexty/000-dnistrovyj-598x400.jpg
+featured_image: /latynka/img/lattexty/000-dnistrovyj-598x400.jpg
 
 ---
 Vin stav &#8220;druhom Eliota&#8221;, zachystyv dysertaciju pro radykaľnyj ukrajinśkyj nacíonalizm, a na dozvilli vdalo pojednuje antysystemnu filosofiju, žyvopys i svitovu poeziju z vesternamy i rybolovleju. I jomu fioletova riznycia miž &#8220;kolyś&#8221; i &#8220;zaraz&#8221;. Bo ce Dnistrovyj. Anatolij Dnistrovyj. Myteć ta intelektual.

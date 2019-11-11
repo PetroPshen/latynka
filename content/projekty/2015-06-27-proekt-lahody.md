@@ -3,7 +3,7 @@ title: Проєкт Максима Лагоди
 type: projekty
 date: 2015-06-27T07:52:31+00:00
 url: works/proekt-lahody/
-featured_image: /img/projecty/Latynka-johansen-png.png
+featured_image: /latynka/img/projecty/Latynka-johansen-png.png
 
 ---
 Проект Максима Лагоди має в основі <a href="/works/proekt-jirecheka/" target="_blank">абетку Їречека</a>, але з додатковими літерами:

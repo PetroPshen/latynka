@@ -3,7 +3,7 @@ title: Паспортний
 type: projekty
 date: 2015-06-14T07:47:25+00:00
 url: works/pasportnyj/
-featured_image: /img/projecty/Latynka-pasportnyj.png
+featured_image: /latynka/img/projecty/Latynka-pasportnyj.png
 
 ---
 Кабінет Міністрів 27 січня 2010 року України видав постанову, в якій впорядкував **правила транслітерації української абетки латиницею**, затвердивши <a href="http://zakon2.rada.gov.ua/laws/show/55-2010-%D0%BF" target="_blank">таблицю транслітерації</a>. Ці правила застосовують зокрема для видачі закордонних паспортів громадянина України.
