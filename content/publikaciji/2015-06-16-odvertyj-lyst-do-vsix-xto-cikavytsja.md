@@ -32,6 +32,4 @@ Maju nadiju, ščo z laskavoho dozvolu redakciji «Červonoho Šljaxu», jaka vm
 
 P. S. Pyšu cijeju transkrypcijeju, zovsim ne propagujučy imenno jiji, ale ščob pokazaty, jak lehko, navit&#8217; bez nijakoji zvyčky, rozbyratysja v nij, a, značyt&#8217;, na razi potreby — j nazavše do čohos&#8217; podibnoho perejty.
 
-<p style="text-align: right;">
-  <a href="http://uk.wikisource.org/wiki/Odvertyj_lyst_do_vsix,_xto_cikavyt%27sja_cijeju_spravoju" target="_blank">Джерело</a>
-</p>
+_Джерело: Червоний шлях, 1923, №6—7, с.267—268_

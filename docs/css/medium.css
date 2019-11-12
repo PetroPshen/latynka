@@ -886,6 +886,10 @@ MY NEW STYLE PARTS
     font-style: italic;
 }
 
+.biblioteka-single-author {
+    font-style: italic;
+}
+
 /* PROJEKTY LIST STYLE */
 .projekty-card {
     background: linear-gradient(0.4turn, #1f367d, #2a5f91, #27778b);
@@ -911,7 +915,7 @@ MY NEW STYLE PARTS
 
 /* PUBLIKACIJI LIST STYLE */
 .publikaciji-author-meta {
-    padding-bottom: 24px;
+    padding-bottom: 5px;
     color: rgba(0, 0, 0, .44);
     padding-top: 5px;
 }
@@ -922,8 +926,6 @@ MY NEW STYLE PARTS
     font-weight: 700;
     color: rgba(0, 0, 0, .54);
 }
-
-
 
 
 .obgovorenia-card {
