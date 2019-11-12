@@ -3,7 +3,7 @@ title: Проєкт Їречека (Їречківка)
 type: projekty
 date: 2015-06-30T07:55:10+00:00
 url: works/proekt-jirecheka/
-featured_image: /latynka/img/projecty/latynka-jireceka-oryginal.png
+featured_image: /img/projecty/latynka-jireceka-oryginal.png
 
 ---
 Найреальнішим перехід української мови на латинське письмо пов&#8217;язаний із проєктом чеського славіста Йосефа Їречека, опублікованим 1859 року Міністерством культури і освіти Австрійської імперії. 
@@ -40,7 +40,7 @@ featured_image: /latynka/img/projecty/latynka-jireceka-oryginal.png
   </p>
 </div>
 
-<img src="/latynka/img/projecty/jirecek07.png" alt="Справжня Їречківка" /> 
+<img src="/img/projecty/jirecek07.png" alt="Справжня Їречківка" /> 
 
 **ЧИТАТИ БІЛЬШЕ:** <a href="http://diasporiana.org.ua/wp-content/uploads/books/11976/file.pdf" target="_blank">Василь Сімович. Йосеф Їречек і українська мова (Прага, 1933)</a><br>
 <a href="https://books.google.com.ua/books?id=KU1dAAAAcAAJ" target="_blank">Josef Jireček. Ueber den Vorschlag das Ruthenische mit lateinischen Schrifzeichen zu schreiben</a>

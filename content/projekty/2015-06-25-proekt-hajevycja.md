@@ -3,7 +3,7 @@ title: Проєкт на основі гаєвиці
 type: projekty
 date: 2015-06-25T07:48:09+00:00
 url: works/proekt-hajevycja/
-featured_image: /latynka/img/projecty/Latynka-na-osnovi-hajevuci-png.png
+featured_image: /img/projecty/Latynka-na-osnovi-hajevuci-png.png
 
 ---
 Спрощений варіант латинки на основі гаєвиці. Його особливістю є наявність лише трьох нестандартних літер — **č**, **š**, **ž**.

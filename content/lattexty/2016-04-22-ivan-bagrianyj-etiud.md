@@ -4,7 +4,7 @@ author: Ivan Bahrianyj
 type: lattexty
 date: 2016-04-22T03:04:21+00:00
 url: /ivan-bagrianyj-etiud/
-featured_image: /latynka/img/lattexty/prison-598x415.jpg
+featured_image: /img/lattexty/prison-598x415.jpg
 summary: 'Čorni graty rozpanachaly nebo. Červono-roževe vono tiahnulo, manylo. Spišyly bili lebedi-chmarky. Za soncem plyvly radisť, nadiji — za obrij. V kameri rozislala svoji ryzy toska. čorni graty rozpanachaly dušu. Po ulyci: Anons… gastroli… Alegri… — plakaty… plakaty… A v kameri — klišči, &#8220;hycelia&#8221; zaščemyly dušu jak zatravlenu sobaku.'
 ---
 ><em>…Skrynia z promokloho </em><br /> <em>sliźmy kaminnia… </em><br /> <em>Povna liudej, stara >prokopčena </em><br /> <em>mukamy skrynia… </em><br /> <em>A v hrudiach dym.</em> <br /> <strong>V. >Vynnyčenko</strong>

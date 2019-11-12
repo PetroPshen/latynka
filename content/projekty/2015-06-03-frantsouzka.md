@@ -3,7 +3,7 @@ title: Французька транскрипція
 type: projekty
 date: 2015-06-03T07:14:58+00:00
 url: works/frantsouzka/
-featured_image: /latynka/img/projecty/Latynka-france.png
+featured_image: /img/projecty/Latynka-france.png
 
 ---
 Французька транскрипція це запис українських слів латиницею, орієнтований на інтуїтивну вимову носіями французької мови. 

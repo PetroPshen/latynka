@@ -4,10 +4,10 @@ author: Olexander Dovgenco
 type: biblioteka
 date: 2019-11-08T08:10:54+00:00
 url: /biblioteka/zacarovana-desna/
-featured_image: /latynka/img/biblioteka/zacarovana-desna-dovzenko04.jpg
+featured_image: /img/biblioteka/zacarovana-desna-dovzenko04.jpg
 
 ---
-<a href="https://drive.google.com/file/d/1YgBoRr112N0_a7cu0J0dekQNt1dwgjPg/view" target="_blank"><img src="/latynka/img/biblioteka/pdf-icon.png" alt="pdf"/></a>
+<a href="https://drive.google.com/file/d/1YgBoRr112N0_a7cu0J0dekQNt1dwgjPg/view" target="_blank"><img src="/img/biblioteka/pdf-icon.png" alt="pdf"/></a>
 
 **&#8220;Začarovana Desna&#8221;** (1956 r.) — avtobìografična povisť, spohady Oleksandra Dovženka pro dytynstvo v ridnomu seli na Černihivščyni. Tvir spovnenyj tonkoho humoru. Povisť je slavnem ričky Desna, ridnomu černihivśkomu kraju.
 

@@ -4,10 +4,10 @@ author: Volodimir Vinnicenco
 type: biblioteka
 date: 2019-11-08T08:07:49+00:00
 url: /biblioteka/zapysky-kyrpatoho-mefistofelia/
-featured_image: /latynka/img/biblioteka/pidmohylnyj-misto06.jpg
+featured_image: /img/biblioteka/pidmohylnyj-misto06.jpg
 
 ---
-<a href="https://drive.google.com/file/d/1dOu8dudfPvJuYWnzHS6oKMsNleESJ98x/view" target="_blank"><img src="/latynka/img/biblioteka/pdf-icon.png" alt="pdf"/></a>
+<a href="https://drive.google.com/file/d/1dOu8dudfPvJuYWnzHS6oKMsNleESJ98x/view" target="_blank"><img src="/img/biblioteka/pdf-icon.png" alt="pdf"/></a>
 
 «Zapysky kyrpatoho Mefistofelia» — roman Volodymyra Vynnyčenka, odyn iz najsyľnišych u joho tvorčosti. Ce odyn iz fragmentiv eksperymentatorśkoho myslennia pyśmennyka. Vperše joho bulo nadrukovano na počatku 1917 roku.
 

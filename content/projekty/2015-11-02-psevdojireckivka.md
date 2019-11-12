@@ -3,7 +3,7 @@ title: Псевдоїречківка
 type: projekty
 date: 2015-11-02T07:56:12+00:00
 url: works/psevdojireckivka/
-featured_image: /latynka/img/projecty/Latynka-Jirecheka.png
+featured_image: /img/projecty/Latynka-Jirecheka.png
 
 ---
 Ця версія української латинки довгий час вважалася власне за <a href="/works/proekt-jirecheka/" target="_blank">проєкт Йосефа Їречека</a>. Саме як їречківка вона була подана у статті &#8220;Українська латинка&#8221; на Вікіпедії.

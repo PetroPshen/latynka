@@ -4,7 +4,7 @@ author: Valerjan Pidmohyľnyj
 type: lattexty
 date: 2015-12-21T07:01:51+00:00
 url: /valerjan-pidmohylnyj-problema-chliba/
-featured_image: /latynka/img/lattexty/golod6.jpg
+featured_image: /img/lattexty/golod6.jpg
 summary: 'Večir. Dopiru povernuvsia z hulianky. Bulo cikavo. Ja jšov, a obabič vulyci rozsilysia veletenśki, stooki žaby. To — Budynky, ščo jich nič i spliuščyla, j pryposadyla. I vse misto zdavalosia sviatkovym zbihovyśkom žab iz bezkrajich triasovyn.'
 ---
 

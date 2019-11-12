@@ -3,7 +3,7 @@ title: Проєкт Сергія Мельника
 type: projekty
 date: 2015-06-26T07:49:27+00:00
 url: works/proekt-melnyka/
-featured_image: /latynka/img/projecty/Latynka-melnyk-ukrlat1.png
+featured_image: /img/projecty/Latynka-melnyk-ukrlat1.png
 
 ---
 Наприкінці 2000-их років Сергій Мельник створив інтернет-проєкт із промоції української латинки _latynka.com_, для якого обрав правопис <a href="/works/proekt-jirecheka/" target="_blank">Їречека</a> з деякими нововведеннями:

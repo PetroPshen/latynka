@@ -4,9 +4,9 @@ author: William Shakespeare
 type: biblioteka
 date: 2019-11-08T08:05:55+00:00
 url: /biblioteka/romeo-i-dzuljetta/
-featured_image: /latynka/img/biblioteka/romeo-juliet-05.jpg
+featured_image: /img/biblioteka/romeo-juliet-05.jpg
 ---
-<a href="https://drive.google.com/file/d/1DybZrxpZr8OwBsjlxcUVIaAh6H_-CMFc/view" target="_blank"><img src="/latynka/img/biblioteka/pdf-icon.png" alt="pdf"/></a>
+<a href="https://drive.google.com/file/d/1DybZrxpZr8OwBsjlxcUVIaAh6H_-CMFc/view" target="_blank"><img src="/img/biblioteka/pdf-icon.png" alt="pdf"/></a>
 
 Romeo i Džuľjetta (anhl. Romeo and Juliet) — tragedija Viľjama Šekspira, v jakij rozpovidajeťsia pro tragične kochannia dvoch molodych veronciv iz vorožych rodyn. Pjesa napysana deś pryblyzno v 1595 abo raniše. Za žyttia Šekspira vona vydavalasia 4 razy: u 1597, 1599, 1609, data šče odnoho vydannia ne vstanovlena. U 1623 vona bula nadrukovana in folio.
 
