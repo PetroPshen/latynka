@@ -217,7 +217,9 @@ section.recent-posts {
 
 .author-meta {
     flex: 1 1 auto;
+    /* 
     white-space: nowrap !important;
+    */
     text-overflow: ellipsis !important;
     overflow: hidden !important;
     color: rgba(0, 0, 0, .7);

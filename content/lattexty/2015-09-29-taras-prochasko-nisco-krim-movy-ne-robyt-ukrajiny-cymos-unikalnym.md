@@ -4,7 +4,7 @@ author: Taras Prochaśko
 type: lattexty
 date: 2015-09-29T04:17:37+00:00
 url: /taras-prochasko-nisco-krim-movy-ne-robyt-ukrajiny-cymos-unikalnym/
-featured_image: /img/lattexty/prohasko_taras-598x399.jpg
+featured_image: https://scontent.flwo4-1.fna.fbcdn.net/v/t1.0-9/75446492_2710492968995807_2989140153882116096_n.jpg?_nc_cat=106&_nc_oc=AQkKsc_PzxkNkhYQA_w8QAaX_c8Xq0TdsNka-W2xit0K4OZ0DEv2MNrE1Gev9hA1WNE&_nc_ht=scontent.flwo4-1.fna&oh=e03f4e4f01a6c2e1b5337de26e8e3448&oe=5E476A63
 summary: 'Pryjniato vvažaty, ščo v Ukrajini tiažko žyty, tomu my z rozuminniam stavymosia do tych svojich spivhromadian, jaki z Ukrajiny vyjiždžajuť zarady kraščych umov, zarady liudśkoji samorealizaciji, zarady unyknennia nebezpek i trudnoščiv.'
 ---
 Možlyvo, vse ce mene perejmaje peredovsim tomu, ščo ja je liudynoju, jaka žyve u movi, dlia jakoji mova je ne tiľky miscem diji, ale j najreaľnišoju i najvažlyvišoju formoju svitu. Ale, naviť jakščo tak, to čym taki liudy, jak ja, hirši vid autystiv, viľnych pidpryjemciv, homoseksualistiv, jevrejiv i pereselenciv? Cilkom pryrodno, ščo u modernomu suspiľstvi, jake tak napolehlyvo deklaruje prava liudyny, ci liudy takož chočuť počuvaty sebe biľš-menš komfortno.

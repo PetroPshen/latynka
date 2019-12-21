@@ -3,5 +3,6 @@ description: "Осідок української латинки у всемер
 aliases: 
     - /proekty/
     - /opytuvannja/
+    - /pro/
 ---
 
