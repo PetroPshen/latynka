@@ -767,9 +767,16 @@ span.navigation {
     text-align: center;
 }
 
+
 .pagination {
-    display: block;
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    border-radius: .25rem;
+    text-align: right;
+    justify-content: center;
 }
+
 
 iframe {
     max-width: 100%;

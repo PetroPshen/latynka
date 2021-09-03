@@ -4,7 +4,7 @@ author: Ulas Samčuk
 type: lattexty
 date: 2016-10-31T12:09:16+00:00
 url: /narid-cy-cern/
-featured_image: https://scontent.flwo4-2.fna.fbcdn.net/v/t1.0-9/75332800_2710493185662452_3264159618653224960_n.jpg?_nc_cat=104&_nc_oc=AQnu9xeEVs_gpxzHFBakzpszfyh_SWFkvGWbjqAD9JDN3Juyg-llzJbR1bCauXyQl8M&_nc_ht=scontent.flwo4-2.fna&oh=2acf0960f3e846281be25d1873ef2a37&oe=5E559929
+featured_image: /img/lattexty/narid-cy-cern-samcuk.jpg
 
 ---
 Pry peršomu pohliadi na dijsnisť ce pytannia ne daje nam pokoju. Vono vrizajeťsia v našu svidomisť, vono peresliduje nas vdoma, na vulyci, v ustanovi, na bazari, u tramvaji&#8230; Na kožnomu kroci našych tragičnych budniv u peršu čerhu bačymo čornym po bilomu pysane: Chto my? Narid čy čerń? Nacija čy masa?&#8230; <!--more-->

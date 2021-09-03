@@ -4,7 +4,7 @@ author: Ivan Bahrianyj
 type: lattexty
 date: 2016-04-22T03:04:21+00:00
 url: /ivan-bagrianyj-etiud/
-featured_image: https://scontent.flwo4-2.fna.fbcdn.net/v/t1.0-9/74909796_2710492965662474_950468278260596736_n.jpg?_nc_cat=100&_nc_oc=AQn94yw2NnT-4v5Eb8wPMOCvGwcwrOEPJkmJci6LF4fq3gcffgRrCZxqbe9dSaSd0I0&_nc_ht=scontent.flwo4-2.fna&oh=21f59278b6ed94050bd1f43414e6f0c6&oe=5E5CB5F9
+featured_image: /img/lattexty/ivan-bagrianyj-etiud.jpg
 summary: 'Čorni graty rozpanachaly nebo. Červono-roževe vono tiahnulo, manylo. Spišyly bili lebedi-chmarky. Za soncem plyvly radisť, nadiji — za obrij. V kameri rozislala svoji ryzy toska. čorni graty rozpanachaly dušu. Po ulyci: Anons… gastroli… Alegri… — plakaty… plakaty… A v kameri — klišči, &#8220;hycelia&#8221; zaščemyly dušu jak zatravlenu sobaku.'
 ---
 ><em>…Skrynia z promokloho </em><br /> <em>sliźmy kaminnia… </em><br /> <em>Povna liudej, stara >prokopčena </em><br /> <em>mukamy skrynia… </em><br /> <em>A v hrudiach dym.</em> <br /> <strong>V. Vynnyčenko</strong>

@@ -4,7 +4,7 @@ author: Mykola Chvyliovyj
 type: lattexty
 date: 2016-06-02T09:37:02+00:00
 url: /mykola-chvyliovyj-elegija/
-featured_image: https://scontent.flwo4-1.fna.fbcdn.net/v/t1.0-9/75336369_2710493098995794_1077379760083959808_n.jpg?_nc_cat=106&_nc_oc=AQmY5Nt5rQoqsf5dpkyTgO-me_A976CAh5Hqf3sCn6L_fNWaeYx5PVsZyUk0_sI-RPw&_nc_ht=scontent.flwo4-1.fna&oh=35bda26699404c829a58caf499d51379&oe=5E599AC6
+featured_image: /img/lattexty/mykola-chvyliovyj-elegija.jpg
 summary: 'U hrudni zhnyla zyma, i tychyj stepovyj horodok znityvsia v oblozi movčaznych neruchomych chmar: – nahnav viter iz dalekych Aľpijśkych hir, čerez Karpatśki verchivja, čerez Dunaj. Pryjšlo Rizdvo. Zidchaly dzvinyci, i promerzlo ževrila žura: sum nespokijnoji zemli.'
 
 ---

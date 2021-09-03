@@ -4,7 +4,7 @@ author: David Graeber
 type: lattexty
 date: 2015-09-06T22:30:48+00:00
 url: /pro-fenomen-paskudnoji-roboty/
-featured_image: https://scontent.flwo4-2.fna.fbcdn.net/v/t1.0-9/77087256_2710492858995818_1439129616882073600_n.jpg?_nc_cat=109&_nc_oc=AQlKrZZeejeNxfniVxi2beyUPw8h_ImkRZr8ZdeyHFu-V_8uR0KjCu2aOiZ-8NtvEog&_nc_ht=scontent.flwo4-2.fna&oh=9008de33b75723080b2fe6d46b8c9251&oe=5E54DC47
+featured_image: /img/lattexty/pro-fenomen-paskudnoji-roboty.jpg
 summary: 'U 1930 roci John Maynard Keynes prognozuvav, ščo do kincia stolittia technologiji nastiľky rozvynuťsia, ščo liudy z takych krajin jak Velykobrytanija ta SŠA zmožuť nasolodžuvatysia 15-hodynnym robočym tyžnem. Je vsi pidstavy vvažaty, ščo vin buv pravyj.'
 
 ---
