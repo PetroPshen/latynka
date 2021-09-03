@@ -786,6 +786,7 @@ span.navigation {
     color: #00ab6b;
     background-color: #fff;
     border-radius: 5px;
+    border-color: #fff;
 }
 
 .page-item.active .page-link {
