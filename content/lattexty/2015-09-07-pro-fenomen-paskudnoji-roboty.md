@@ -5,6 +5,7 @@ type: lattexty
 date: 2015-09-06T22:30:48+00:00
 url: /pro-fenomen-paskudnoji-roboty/
 featured_image: /img/lattexty/pro-fenomen-paskudnoji-roboty.jpg
+latinica: [Pseudojirečkivka]
 summary: 'U 1930 roci John Maynard Keynes prognozuvav, ščo do kincia stolittia technologiji nastiľky rozvynuťsia, ščo liudy z takych krajin jak Velykobrytanija ta SŠA zmožuť nasolodžuvatysia 15-hodynnym robočym tyžnem. Je vsi pidstavy vvažaty, ščo vin buv pravyj.'
 
 ---

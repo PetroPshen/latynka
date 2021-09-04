@@ -3,9 +3,7 @@ Template Name: Mediumish
 Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
 License: https://www.wowthemes.net/freebies-license/ 
 */
-.mainheading {
-    padding: 1rem 0rem;
-}
+
 
 a {
     color: #00ab6b;
@@ -47,9 +45,7 @@ pre {
 }
 */
 
-.main-content {
-    min-height: 300px;
-}
+
 
 .site-content {
     min-height: 60vh;
@@ -322,10 +318,7 @@ span.post-read-more a:hover {
 }
 */
 
-.mainheading h1.posttitle {
-    font-weight: 700;
-    margin-bottom: 1rem;
-}
+
 
 .footer {
     border-top: 1px solid rgba(0, 0, 0, .05) !important;
@@ -894,7 +887,6 @@ MY NEW STYLE PARTS
     font-weight: 700;
     color: rgba(0, 0, 0, .54);
 }
-
 
 .obgovorenia-card {
     border:none;

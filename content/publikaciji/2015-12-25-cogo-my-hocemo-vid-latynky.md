@@ -3,6 +3,7 @@ title: Чого ми хочемо від латинки?
 author: Stanislav Nastenko
 type: publikaciji
 date: 2015-12-25T11:49:43+00:00
+year: "2015"
 url: /cogo-my-hocemo-vid-latynky/
 summary: 'Чи можуть наші брати чехи, словаки, хорвати, до письма яких тяжіють найкращі альтернативні варіанти української латинки, похвалитися таким розвитком літератури, як французи, англійці і скандинави? Чому українці мають зберігати слов&#8217;янськість вигляду своїх слів, прикрашаючи їх гачками на буквах?'
 ---
@@ -40,6 +41,6 @@ summary: 'Чи можуть наші брати чехи, словаки, хор
   Sco my xocemo wied latynky? Weegliadaty jak czehy? Ne bouty podiebneemy na rosian? Abo spreeiaty tomu, scob ukrainci bilsce peesaly i ceetaly, napreeklad? Abo scob ukrainsky tekst weegliadav preevableeviesce, prozoriesce i slougouvav merezeevom na jake naneezana wied swogo grountu melodieina rozmowna mowa.
 </p>
 
-<p style="text-align: right;">
-  <span style="color: #333333;"><em>Матеріали в рубриці &#8220;Точка зору&#8221; можуть не збігатися з позицією редакції сайту.</em></span>
-</p>
+
+----- 
+*Матеріали в рубриці &#8220;Точка зору&#8221; можуть не збігатися з позицією редакції сайту.*

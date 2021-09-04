@@ -3,6 +3,7 @@ title: Нам потрібна латинка – і терміново
 author: Stanislav Nastenko
 type: publikaciji
 date: 2016-05-18T14:06:11+00:00
+year: "2016"
 url: /nam-potribna-latynka-i-terminovo/
 
 ---

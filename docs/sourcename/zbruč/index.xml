@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zbruč on LATYNKA.TAK</title>
+    <link>http://latynka.tak.today/sourcename/zbru%C4%8D/</link>
+    <description>Recent content in Zbruč on LATYNKA.TAK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>uk-UA</language>
+    <copyright>2014 – LATYNKA.TAK</copyright>
+    <lastBuildDate>Mon, 10 Nov 2014 01:01:38 +0000</lastBuildDate>
+    
+	<atom:link href="http://latynka.tak.today/sourcename/zbru%C4%8D/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mova latynkoju?</title>
+      <link>http://latynka.tak.today/mova-latynkoju/</link>
+      <pubDate>Mon, 10 Nov 2014 01:01:38 +0000</pubDate>
+      
+      <guid>http://latynka.tak.today/mova-latynkoju/</guid>
+      <description>Досвід переходу інших країн з кирилиці на латинку показує, що найчастіше першим етапом є співжиття й конкуренція цих двох абеток. Найкраще це видно в Сербії й Чорногорії, де обидві абетки є офіційними, але поступово латинка як зручніший і прагматичніший варіант витісняє кирилицю,</description>
+    </item>
+    
+    <item>
+      <title>Йосеф Їречек і українська мова</title>
+      <link>http://latynka.tak.today/josef-yirechek-i-ukrayinska-mova/</link>
+      <pubDate>Sat, 02 Jul 1932 15:27:59 +0000</pubDate>
+      
+      <guid>http://latynka.tak.today/josef-yirechek-i-ukrayinska-mova/</guid>
+      <description>Ім’я Йосефа Їречка тісно в’яжеться з т. зв. азбучною заверюхою в Галичині 1859 р. Австрійський уряд задумав припинити в українських краях вплив російської мови, й, добачаючи велику причину цього впливу в спільному з росіянами кирилицькому письмі, рішився завести в українських школах латиницю.</description>
+    </item>
+    
+  </channel>
+</rss>

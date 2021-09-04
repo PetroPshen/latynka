@@ -2,6 +2,7 @@
 title: 'Прямим текстом: Від кирилиці – до латинки'
 type: publikaciji
 date: 2017-04-22T11:39:00+00:00
+year: "2017"
 url: /pryamym-tekstom-vid-kyrylytsi-do-latynky/
 
 ---

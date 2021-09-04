@@ -3,6 +3,7 @@ title: З ким буде Україна на новій абетковій ма
 author: Петро Пшеничний
 type: publikaciji
 date: 2017-04-13T06:09:42+00:00
+year: "2017"
 url: /z-kym-ukrajina/
 
 ---

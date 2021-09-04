@@ -3,6 +3,7 @@ title: Сьогодні латиниця – це навіть краще від
 author: Олег Чорногуз
 type: publikaciji
 date: 2016-03-27T23:31:37+00:00
+year: "2016"
 url: /latynytsia-krasce-vid-stiny-u-10-metriv/
 
 ---

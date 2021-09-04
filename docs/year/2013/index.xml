@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2013 on LATYNKA.TAK</title>
+    <link>http://latynka.tak.today/year/2013/</link>
+    <description>Recent content in 2013 on LATYNKA.TAK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>uk-UA</language>
+    <copyright>2014 – LATYNKA.TAK</copyright>
+    <lastBuildDate>Sat, 24 Aug 2013 12:05:52 +0000</lastBuildDate>
+    
+	<atom:link href="http://latynka.tak.today/year/2013/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Уся справа в алфавіті?</title>
+      <link>http://latynka.tak.today/usya-sprava-v-alfaviti/</link>
+      <pubDate>Sat, 24 Aug 2013 12:05:52 +0000</pubDate>
+      
+      <guid>http://latynka.tak.today/usya-sprava-v-alfaviti/</guid>
+      <description>&lt;p&gt;У Казахстані назрівають “алфавітні” зміни. Президент країни Нурсултан Назарбаєв у щорічному посланні парламенту, окреслюючи перспективи розвитку до 2050 року, наголосив на необхідності переходу казахської мови з кирилиці на латинський алфавіт.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Серби втрачають кирилицю?</title>
+      <link>http://latynka.tak.today/serby-vtrachajut-kyrylytsiu/</link>
+      <pubDate>Tue, 30 Apr 2013 09:48:16 +0000</pubDate>
+      
+      <guid>http://latynka.tak.today/serby-vtrachajut-kyrylytsiu/</guid>
+      <description>&lt;p&gt;Сербська мова не така вже й близька до української. Принаймні, якщо до вас заговорять на вулиці, ви мало що зрозумієте. Хіба вихопите одне-два словечка. Але їхнє «молім» (прошу) і «хвала» (дякую) – не можуть не зачаровувати.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
