@@ -1,40 +1,60 @@
-let items = [
-	'Zdorovia',
-	'coeny',
-	'Oucrayina',
-	'Ucrajina',
-	'Chuastóu',
-	'Chuastœu',
-	'Chvastoev',
-	'Luœu ',
-	'Lvoev',
-	'Lwœw',
-	'Cuioeu',
-	'Ploscuiroev',
-	'Chmelnicscuiy',
-	'Gitomir',
-	'Veinnica',
-	'Lucsc',
-	'Roeune',
-	'seimea',
-	'nezalegynoesty',
-	'mova',
-	'rozvivati sea',
-	'Taras Chevcenco',
-	'Michailo Coçubinscuiy',
-	'Yureiy Andruchovicy',
-	'Ticina',
-	'Ruilscuiy',
-	'Andreiy Maluichyco',
-	'Micola Veingranovscuiy',
-	'Oxana Zabugyco',
-	'Mariya Bourmaca',
-	'Cosinca',
-	'Bagean',
-	'Victor Yuscenco',
-	'Leonid Cucyma',
-	'Leonid Cravceuc',
-	'Petro Porochenco',
-	'Volodimir Zelenscuiy',
-	'Ceornovoel',
-];
+let items = ['Ukrajina', 'Oucrayina', 'Ucrajina'
+	,'Kyiv', 'Kyjiv', 'Cuioeu'
+	,'Lviv', 'Lwów', 'Luœu'
+	,'Roeune', 'Rœune', 'Rivne', 'Rywne', 'Róune'
+	,'Kharkiv', 'Charcyw', 'Xarcœu'
+	,'Chvastóv',	'Xuastœu', 'Chwastyw'
+	,'Gitomir', 'Žytomyr'
+
+	,'Yushchenko', 'Iouscenco', 'Juščenko'
+	,'Crauceuc', 'Kravčuk'
+	,'Shevcenko', 'Xeücenco', 'Chevcenco', 'Ševčenko'
+	,'Tyčyna', 'Ticina'
+	,'Zabougyco', 'Zabužko'
+	,'Vinniceuc', 'Vynnyčuk'
+	,'Dneistrovuiy', 'Dnistrovyi'
+	,'Companicenco'
+	,'Scovoroda'
+	
+
+	,'kozak', 'cozac'
+
+	,'latynka', 'latinca'
+	,'colomiyca'
+
+	,'ščastia', 'scẽstia'
+	,'sviato', 'swjato', 'suẽto'
+	,'suoia', 'svoja'
+	,'uéter', 'víter'
+	,'zuõc', 'zvuk'
+	,'sumniv', 'sõmnéu'
+	,'boršč', 'borstyu', 'borshch'
+	,'cnẽg', 'kniazj'
+	,'crasivo', 'krasyvo'
+	,'lis', 'leis', 'lies', 'lés', 'lís', 'lys'
+	,'liçe', 'lyce'
+
+	,'solovey'
+	,'ploug'
+	,'corolè'
+	,'scotina'
+	,'skyba'
+	,'myto',
+	,'corop'
+	,'spocousa'
+	,'quasoc'
+	,'rečennia'
+	,'slovo'
+	,'símẽ'
+	,'nezalegynoesty'
+	,'mova'
+	,'lan'
+	,'sprosonnia'
+	,'coloboc'
+	,'doumca', 'dumka'
+	,'quolo'
+	,'lito'
+	,'vesna'
+	,
+	
+]
