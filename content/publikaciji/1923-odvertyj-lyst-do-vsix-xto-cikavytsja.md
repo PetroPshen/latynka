@@ -2,11 +2,10 @@
 title: Odvertyj lyst do vsix, xto cikavyt’sja cijeju spravoju
 author: Serhij Pylypenko
 type: publikaciji
-date: 1923-03-22T15:31:55+00:00
+date: 1923-08-04T15:31:55+00:00
 year: "1923"
 url: /odvertyj-lyst-do-vsix-xto-cikavytsja/
-sourcename: Червоний шлях
-sourcelink: /odvertyj-lyst-do-vsix-xto-cikavytsja/
+sourcenolink: Червоний шлях, 1923, №6—7, с.267—268
 
 ---
 Skil&#8217;ka raziv uže pidnosylasja sprava pro te, ščo vart bulo b zavesty v ukrajins&#8217;komu pys&#8217;mi latyns&#8217;kyj al&#8217;favit. Buly i sproby praktyčno perevesty cju dumku v žyttja &#8211; tak na Ukrajini Naddniprjans&#8217;kij, jak i Naddnistrjans&#8217;kij.<!--more--> Nahadaty pro ci spravy, jak takož pro jix ideolohični pidosnovy, metu j zavdannja, bude dilom tyx, xto vidhuknet&#8217;sja na cej mij odvertyj lyst i viz&#8217;met&#8217;sja znov obmirkuvaty cju spravu. Meni ž osobysto žadalosja b tiljky postavyty pered šyrokymy kolamy dijačiv hromads&#8217;kyx, polityčnyx i naukovyx pytannja pro slušnist&#8217; rozvjazannja cijeji problemy same v naši dni stvorennja molodoji ukrajins&#8217;koji deržavnosty na bazi radjans&#8217;koho suspil&#8217;stva.

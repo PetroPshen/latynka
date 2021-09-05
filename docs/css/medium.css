@@ -5,15 +5,7 @@ License: https://www.wowthemes.net/freebies-license/
 */
 
 
-a {
-    color: #00ab6b;
-    transition: all 0.2s;
-}
 
-a:hover {
-    color: #038252;
-    text-decoration: none;
-}
 
 pre {
     -moz-box-sizing: border-box;
@@ -32,27 +24,6 @@ pre {
     margin-bottom: -rem;
 }
 
-.mediumnavigation {
-    background: linear-gradient(0.35turn, #1f367d, #41a0ce, #1fe689);
-    box-shadow: 0 2px 2px -2px rgba(0, 0, 0, .15);
-    transition: top 0.2s ease-in-out;
-    color: #fff;
-}
-
-/*
-.mediumnavigation:hover {
-    background: linear-gradient(0.35turn, #274394, #4aacdd, #29f596);
-}
-*/
-
-
-
-.site-content {
-    min-height: 60vh;
-    padding-top: 1.5rem;
-    margin-top: 65px;
-    transition: all 0.4s;
-}
 
 section {
     margin-bottom: 20px;
@@ -96,12 +67,7 @@ section.recent-posts {
     }
 }
 
-@media (min-width:992px) {
-    .navbar-expand-lg .navbar-nav .nav-link {
-        padding-right: 0.8rem;
-        padding-left: 0.8rem;
-    }
-}
+
 
 .listfeaturedtag {
     border: 1px solid rgba(0, 0, 0, .125);
@@ -120,10 +86,7 @@ section.recent-posts {
     overflow: hidden;
 }
 
-.listfeaturedtag .card,
-.card-footer {
-    border: 0;
-}
+
 
 .listfeaturedtag .thumbnail {
     background-size: cover;
@@ -146,13 +109,6 @@ section.recent-posts {
     line-height: 1.25;
 }
 
-.listfeaturedtag h4.card-text,
-.listrecent h4.card-text {
-    color: rgba(0, 0, 0, .44);
-    font-size: 0.95rem;
-    line-height: 1.6;
-    font-weight: 400;
-}
 
 .featured-box-img-cover {
     object-fit: cover;
@@ -212,104 +168,46 @@ section.recent-posts {
 }
 
 .author-meta {
-    flex: 1 1 auto;
-    /* 
-    white-space: nowrap !important;
-    */
-    text-overflow: ellipsis !important;
-    overflow: hidden !important;
-    color: rgba(0, 0, 0, .7);
+	flex: 1 1 auto;
+	/* 
+	white-space: nowrap !important;
+	*/
+	text-overflow: ellipsis !important;
+	overflow: hidden !important;
+	color: rgba(0, 0, 0, .6);
 }
 
 span.post-name,
 span.post-date,
 span.author-meta {
-    display: inline-block;
+	display: inline-block;
 }
 
 span.post-date,
 span.post-read {
-    color: rgba(0, 0, 0, .44);
+	color: rgba(0, 0, 0, .6);
 }
 
 span.post-read-more {
-    align-items: center;
-    display: inline-block;
-    float: right;
-    margin-top: 8px;
+	align-items: center;
+	display: inline-block;
+	float: right;
+	margin-top: 8px;
 }
 
 span.post-read-more a {
-    color: rgba(0, 0, 0, .44);
+	color: rgba(0, 0, 0, .44);
 }
 
 span.post-name a,
 span.post-read-more a:hover {
-    color: rgba(0, 0, 0, .8);
+	color: rgba(0, 0, 0, .8);
 }
 
 .dot:after {
-    content: "·";
-    margin-left: 3px;
-    margin-right: 3px;
-}
-
-.mediumnavigation .form-control {
-    font-size: 0.8rem;
-    border-radius: 30px;
-    overflow: hidden;
-    border: 1px solid rgba(0, 0, 0, 0.04);
-    min-width: 180px;
-}
-
-.mediumnavigation .form-inline {
-    margin-left: 15px;
-}
-
-.mediumnavigation .form-inline .btn {
-    margin-left: -50px;
-    border: 0;
-    border-radius: 30px;
-    cursor: pointer;
-}
-
-.mediumnavigation .form-inline .btn:hover,
-.mediumnavigation .form-inline .btn:active {
-    background: transparent;
-    color: green;
-}
-
-.mediumnavigation .navbar-brand {
-    font-weight: 900;
-    color: #fff;
-    font-size: 1.5rem;
-}
-
-.mediumnavigation .navbar-brand:hover {
-    color: #c4ffe4;
-}
-
-.mediumnavigation .dropdown-menu {
-    border: 1px solid rgba(0, 0, 0, 0.08);
-    margin: .5rem 0 0;
-}
-
-.mediumnavigation .nav-item,
-.dropdown-menu {
-    font-size: 0.8rem;
-    text-transform: uppercase;
-}
-
-.mediumnavigation .search-icon {
-    margin-left: -40px;
-    display: inline-block;
-    margin-top: 3px;
-    cursor: pointer;
-}
-
-.mediumnavigation .navbar-brand img {
-    max-height: 30px;
-    margin-right: 5px;
+	content: "·";
+	margin-left: 3px;
+	margin-right: 3px;
 }
 
 /*
@@ -450,6 +348,8 @@ blockquote {
     .listfeaturedtag .card {
         height: auto;
     }
+
+
 
     .listfeaturedtag .wrapfooter {
         position: relative;
@@ -883,10 +783,10 @@ MY NEW STYLE PARTS
 .publikaciji-post-meta-align {
     text-align: left;
 }
-.publikaciji-list-post-date {
+/* .publikaciji-list-post-date {
     font-weight: 700;
     color: rgba(0, 0, 0, .54);
-}
+} */
 
 .obgovorenia-card {
     border:none;
@@ -896,17 +796,9 @@ MY NEW STYLE PARTS
     margin-bottom: 10px;
 }
 
-.navbar-light .navbar-nav .nav-link {
-    color: rgb(255, 255, 255)
-}
 
-.navbar-light .navbar-nav .nav-link:hover {
-    color: rgb(255, 211, 172);
-}
 
-a.text-dark:focus, a.text-dark:hover {
-    color: #00ab6b !important;
-}
+
 
 .nocolor {
     color: #fff !important;

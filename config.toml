@@ -20,23 +20,24 @@ tag = "tags"
 year = "year"
 sourcename = "sourcename"
 sourcelink = "sourcelink"
+sourcenolink = "sourcenolink"
 latinica = "latinica"
 
 
 [menu]
 # Main Menu
 [[menu.main]]
-name = "Публікації"
+name = "Дописи"
 url = "/publikaciji/"
 weight = 1
 
 [[menu.main]]
-name = "Проєкти"
+name = "Снутки"
 url = "/projekty/"
 weight = 2
 
 [[menu.main]]
-name = "Книгозбірня"
+name = "Книги"
 url = "/biblioteka/"
 weight = 3
 
