@@ -4,8 +4,7 @@ type: publikaciji
 date: 1931-11-16T14:04:57+00:00
 year: "1931"
 url: /latynska-azbuka-ukrajinskoji-molodi-ameryky/
-sourcename: Holos Mazepynciv
-sourcelink: /img/articles/z2014/golos-mazepynciv.jpg
+sourcejustname: Holos Mazepynciv
 
 ---
 Українські емігранти в Америці мусіли пристосовуватися, тому й газети видавали українською латинкою, і оголошення писали.

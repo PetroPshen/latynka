@@ -5,7 +5,7 @@ type: publikaciji
 date: 2013-08-24T12:05:52+00:00
 year: "2013"
 url: /usya-sprava-v-alfaviti/
-sourcename: Високий замок
+sourcejustname: Високий замок
 sourcelink: http://wz.lviv.ua/life/121736
 
 ---

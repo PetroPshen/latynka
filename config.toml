@@ -20,7 +20,7 @@ tag = "tags"
 year = "year"
 sourcename = "sourcename"
 sourcelink = "sourcelink"
-sourcenolink = "sourcenolink"
+sourcejustname = "sourcejustname"
 latinica = "latinica"
 
 

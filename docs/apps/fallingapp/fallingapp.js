@@ -1,3 +1,5 @@
+import {words} from './words.js'
+
 window.onload = () => {
 
 function fallingElementsApp(items, interval, duration) {
@@ -51,6 +53,6 @@ function fallingElementsApp(items, interval, duration) {
 	setInterval(fallingElement, interval, items)
 }
 
-fallingElementsApp(items, 600, 10000)
+fallingElementsApp(words, 600, 10000)
 
 }

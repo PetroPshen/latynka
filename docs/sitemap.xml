@@ -508,7 +508,12 @@
   </url>
   
   <url>
-    <loc>http://latynka.tak.today/sourcename/%D0%B2%D0%B8%D1%81%D0%BE%D0%BA%D0%B8%D0%B9-%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA/</loc>
+    <loc>http://latynka.tak.today/sourcejustname/</loc>
+    <lastmod>2013-08-24T12:05:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://latynka.tak.today/sourcejustname/%D0%B2%D0%B8%D1%81%D0%BE%D0%BA%D0%B8%D0%B9-%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA/</loc>
     <lastmod>2013-08-24T12:05:52+00:00</lastmod>
   </url>
   
@@ -688,17 +693,12 @@
   </url>
   
   <url>
-    <loc>http://latynka.tak.today/sourcelink/img/articles/z2014/golos-mazepynciv.jpg/</loc>
-    <lastmod>1931-11-16T14:04:57+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://latynka.tak.today/year/1931/</loc>
     <lastmod>1931-11-16T14:04:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://latynka.tak.today/sourcename/holos-mazepynciv/</loc>
+    <loc>http://latynka.tak.today/sourcejustname/holos-mazepynciv/</loc>
     <lastmod>1931-11-16T14:04:57+00:00</lastmod>
   </url>
   
@@ -708,17 +708,12 @@
   </url>
   
   <url>
-    <loc>http://latynka.tak.today/sourcelink/latynka-prystrasti-19-stolittia/</loc>
-    <lastmod>1931-03-02T13:27:06+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://latynka.tak.today/latynka-prystrasti-19-stolittia/</loc>
     <lastmod>1931-03-02T13:27:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://latynka.tak.today/sourcename/%D0%BD%D0%BE%D0%B2%D1%96-%D1%88%D0%BB%D1%8F%D1%85%D0%B8/</loc>
+    <loc>http://latynka.tak.today/sourcejustname/%D0%BD%D0%BE%D0%B2%D1%96-%D1%88%D0%BB%D1%8F%D1%85%D0%B8/</loc>
     <lastmod>1931-03-02T13:27:06+00:00</lastmod>
   </url>
   
@@ -733,12 +728,7 @@
   </url>
   
   <url>
-    <loc>http://latynka.tak.today/sourcenolink/</loc>
-    <lastmod>1923-08-04T15:31:55+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://latynka.tak.today/sourcenolink/%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9-%D1%88%D0%BB%D1%8F%D1%85-1923-67-%D1%81.267268/</loc>
+    <loc>http://latynka.tak.today/sourcejustname/%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9-%D1%88%D0%BB%D1%8F%D1%85-1923-6-7-%D1%81.267-268/</loc>
     <lastmod>1923-08-04T15:31:55+00:00</lastmod>
   </url>
   
