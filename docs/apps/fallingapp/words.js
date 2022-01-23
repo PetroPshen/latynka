@@ -3,7 +3,7 @@ export let words = ['Ukrajina', 'Oucrayina', 'Ucrajina'
 	,'Lviv', 'Lwów', 'Luœu'
 	,'Roeune', 'Rœune', 'Rivne', 'Rywne', 'Róune'
 	,'Kharkiv', 'Charcyw', 'Xarcœu'
-	,'Chvastóv',	'Xuastœu', 'Chwastyw'
+	,'Chvastóv', 'Xuastœu', 'Chwastyw'
 	,'Gitomir', 'Žytomyr'
 
 	,'Yushchenko', 'Iouscenco', 'Juščenko'
@@ -16,7 +16,6 @@ export let words = ['Ukrajina', 'Oucrayina', 'Ucrajina'
 	,'Companicenco'
 	,'Scovoroda'
 	
-
 	,'kozak', 'cozac'
 
 	,'latynka', 'latinca'
