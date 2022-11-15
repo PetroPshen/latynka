@@ -2,23 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2018 on LATYNKA.TAK</title>
-    <link>http://latynka.tak.today/year/2018/</link>
+    <link>https://latinca.umova.top/year/2018/</link>
     <description>Recent content in 2018 on LATYNKA.TAK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>uk-UA</language>
     <copyright>2014 – LATYNKA.TAK</copyright>
-    <lastBuildDate>Sat, 23 Jun 2018 16:56:40 +0000</lastBuildDate>
-    
-	<atom:link href="http://latynka.tak.today/year/2018/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 23 Jun 2018 16:56:40 +0000</lastBuildDate><atom:link href="https://latinca.umova.top/year/2018/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Навіщо українцям латинський алфавіт?</title>
-      <link>http://latynka.tak.today/navisco-ukrajinciam-latynskyj-alfavit/</link>
+      <link>https://latinca.umova.top/navisco-ukrajinciam-latynskyj-alfavit/</link>
       <pubDate>Sat, 23 Jun 2018 16:56:40 +0000</pubDate>
       
-      <guid>http://latynka.tak.today/navisco-ukrajinciam-latynskyj-alfavit/</guid>
-      <description>Кирилиця не є власне українським витвором, її нав&amp;#8217;язали разом із православ&amp;#8217;ям. Створена вона учнями Кирила і Мефодія &amp;#8211; на основі візантійського уніціал. Це по суті великі грецькі літери, якими стали записувати слов&amp;#8217;янські тексти, не роблячи розрізнення між великими та малими літерами.</description>
+      <guid>https://latinca.umova.top/navisco-ukrajinciam-latynskyj-alfavit/</guid>
+      <description>Кирилиця не є власне українським витвором, її нав’язали разом із православ’ям. Створена вона учнями Кирила і Мефодія – на основі візантійського уніціал. Це по суті великі грецькі літери, якими стали записувати слов’янські тексти, не роблячи розрізнення між великими та малими літерами.</description>
     </item>
     
   </channel>
