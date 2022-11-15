@@ -1,11 +1,11 @@
-title = "LATYNKA.TAK"
+title = "LATINCA TAK"
 description ="Осідок української латинки у мережжі"
-baseURL = "https://latinca.umova.top"
+baseURL = "https://latinca.umova.top/"
 languageCode = "uk-UA"
 DefaultContentLanguage = "uk"
 publishDir = "docs"
 theme = "laty01"
-copyright = "2014 – LATYNKA.TAK"
+copyright = "2014 – LATINCA TAK"
 favicon = "/img/favicon.ico"
 
 
